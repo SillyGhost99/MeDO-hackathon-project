@@ -1,0 +1,26 @@
+# Documentation
+├── components.json # Component library configuration
+├── index.html # Entry file
+├── package.json # Package management
+├── postcss.config.js # PostCSS configuration
+├── public # Static resources directory
+│   ├── favicon.png # Icon
+│   └── images # Image resources
+├── src # Source code directory
+│   ├── App.tsx # Entry file
+│   ├── components # Components directory
+│   ├── context # Context directory
+│   ├── db # Database configuration directory
+│   ├── hooks # Common hooks directory
+│   ├── index.css # Global styles
+│   ├── layout # Layout directory
+│   ├── lib # Utility library directory
+│   ├── main.tsx # Entry file
+│   ├── routes.tsx # Routing configuration
+│   ├── pages # Pages directory
+│   ├── services # Database interaction directory
+│   ├── types # Type definitions directory
+├── tsconfig.app.json # TypeScript frontend configuration file
+├── tsconfig.json # TypeScript configuration file
+├── tsconfig.node.json # TypeScript Node.js configuration file
+└── vite.config.ts # Vite configuration file
